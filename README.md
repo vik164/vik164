@@ -9,7 +9,7 @@ I'm passionate about **Software & Data Engineering** with a focus on **AI and ag
 ### 📜 Certificates
 * **Claude Code in Action** — Anthropic
 * **Building with the Claude API** — Anthropic
-* 
+
 ---
 
 ### 📫 Connect with me
