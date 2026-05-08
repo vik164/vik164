@@ -14,4 +14,5 @@ I'm passionate about **Software & Data Engineering** with a focus on **AI and ag
 
 ### 📫 Connect with me
 * **LinkedIn:** https://www.linkedin.com/in/vikrant-kumar-/
-* **Email:** vikrantkumar@cmail.carleton.ca
+* **School Email:** vikrantkumar@cmail.carleton.ca
+* **Personal Email:** vikrantkumar2002@gmail.com
